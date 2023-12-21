@@ -12,7 +12,7 @@
 2. Загрузка и запуск проекта:
 > [!NOTE]
 > *Для успешного запуска приложения, пожалуйста, проделайте следующие шаги:*
-- `$ git clone git@github.com:ChristopherMcCandless/group_six_project.git` *(создайте клон проекта)*
+- `$ git clone git@github.com:imkyznetsov/PE_URFU_2_4.git` *(создайте клон проекта)*
 - `$ pip install -r requirements.txt` *(установите все необходимые библиотеки из файла)*
-- `$ streamlit run streamlit_startup.py` *(запустите приложение)*
+- `$ streamlit run image_classification.py` *(запустите приложение)*
 - Перейдите по адресу: http://10.0.2.15:8501/ в браузере *(если этого не произошло автоматически)*
