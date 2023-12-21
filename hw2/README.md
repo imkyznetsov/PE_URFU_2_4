@@ -13,6 +13,6 @@
 > [!NOTE]
 > *Для успешного запуска приложения, пожалуйста, проделайте следующие шаги:*
 - `$ git clone git@github.com:imkyznetsov/PE_URFU_2_4.git` *(создайте клон проекта)*
-- `$ pip install -r requirements.txt` *(установите все необходимые библиотеки из файла)*
+- `$ pip install streamlit` *(установите Streamlit)*
 - `$ streamlit run image_classification.py` *(запустите приложение)*
 - Перейдите по адресу: http://10.0.2.15:8501/ в браузере *(если этого не произошло автоматически)*
