@@ -1,6 +1,6 @@
 # Определитель спама
 
-Базируется на [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/mshenoda/roberta-spam)
+Базируется на [![Open in Streamlit](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg)](https://huggingface.co/mshenoda/roberta-spam)
 
 ## Начало работы
 
