@@ -1,6 +1,6 @@
 # Определитель спама
 
-Базируется на модели: [![Open model](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg)](https://huggingface.co/mshenoda/roberta-spam)
+Базируется на модели mshenoda/roberta-spam: [![Open model](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg)](https://huggingface.co/mshenoda/roberta-spam)
 
 ## Начало работы
 
