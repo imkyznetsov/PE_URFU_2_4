@@ -17,7 +17,7 @@
 2. Загрузка и запуск проекта:
 > [!NOTE]
 > *Для успешного запуска приложения, пожалуйста, проделайте следующие шаги:*
-- `$ git clone git@github.com:imkyznetsov/PE_URFU_2_4` *(создайте клон проекта)*
+- `$ git clone git@github.com:imkyznetsov/PE_URFU_2_4.git` *(создайте клон проекта)*
 - `$ pip install -r requirements.txt` *(установите все необходимые библиотеки из файла)*
 - `$ uvicorn main:app` *(запустите приложение)*
  ```
