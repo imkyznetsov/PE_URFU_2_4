@@ -33,7 +33,7 @@
 > В поле ниже появится результат отработки модели определения спама, где LABEL_0 - спама нет, LABEL_1 - спам есть.
 
 ## Тесты
-В репозитории настроены средства Continious Integration (**CI**):
+В репозитории настроены средства Continious Integration (**CI**) с помощью Github Actions:
 ![image](https://github.com/imkyznetsov/PE_URFU_2_4/assets/149815971/30e5cb36-b7cf-436d-9ff6-d7f75ea2082d)
 
 ## Выполнил
