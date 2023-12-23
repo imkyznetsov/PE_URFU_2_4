@@ -2,6 +2,12 @@
 
 Базируется на модели **mshenoda/roberta-spam**: [![Open model](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg)](https://huggingface.co/mshenoda/roberta-spam)
 
+##
+
+Приложение развернуто на облаке Яндекс http://51.250.113.219/
+![image](https://github.com/imkyznetsov/PE_URFU_2_4/assets/149815971/de080724-84b2-4856-a796-8209219eccbc)
+
+
 ## Начало работы
 
 1. Настройки для локального запуска проекта:
