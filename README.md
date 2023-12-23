@@ -7,7 +7,6 @@
 Приложение развернуто на облаке Яндекс (http://51.250.113.219:8000/docs)
 ![image](https://github.com/imkyznetsov/PE_URFU_2_4/assets/149815971/de080724-84b2-4856-a796-8209219eccbc)
 
-
 ## Начало работы
 
 1. Настройки для локального запуска проекта:
@@ -41,6 +40,11 @@
 ## Тесты
 В репозитории настроены средства Continious Integration (**CI**) с помощью Github Actions:
 ![image](https://github.com/imkyznetsov/PE_URFU_2_4/assets/149815971/30e5cb36-b7cf-436d-9ff6-d7f75ea2082d)
+
+## Пример работы на облаке
+
+![Test_work](https://github.com/imkyznetsov/PE_URFU_2_4/assets/149815971/fd9d0f0a-10aa-40fb-9141-65df1d35b165)
+
 
 ## Выполнил
 
